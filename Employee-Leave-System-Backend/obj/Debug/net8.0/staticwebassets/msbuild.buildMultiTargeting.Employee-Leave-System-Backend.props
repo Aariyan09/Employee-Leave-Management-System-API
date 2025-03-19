@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Employee-Leave-System-Backend.props" />
+</Project>

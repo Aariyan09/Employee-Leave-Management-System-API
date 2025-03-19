@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Employee-Leave-System-Backend.props" />
+</Project>
